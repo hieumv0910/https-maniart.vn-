@@ -1,0 +1,1832 @@
+Uri: https://maniart.vn/
+File Name: C:\Downloaded Web Sites\maniart.vn\index.htm
+Content Type: text/html
+
+Uri: https://maniart.vn/comingsoon/
+File Name: C:\Downloaded Web Sites\maniart.vn\comingsoon\index.htm
+Content Type: text/html
+
+Uri: https://maniart.vn/comments/feed/
+File Name: C:\Downloaded Web Sites\maniart.vn\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://maniart.vn/contact/
+File Name: C:\Downloaded Web Sites\maniart.vn\contact\index.htm
+Content Type: text/html
+
+Uri: https://maniart.vn/feed/
+File Name: C:\Downloaded Web Sites\maniart.vn\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://maniart.vn/mentor/
+File Name: C:\Downloaded Web Sites\maniart.vn\mentor\index.htm
+Content Type: text/html
+
+Uri: https://maniart.vn/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://maniart.vn/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.1
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://maniart.vn/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.1.1
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\contact-form-7\includes\swv\js\index.js
+Content Type: application/javascript
+
+Uri: https://maniart.vn/wp-content/plugins/elementor-pro/assets/css/modules/motion-fx.min.css?ver=3.31.3
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\elementor-pro\assets\css\modules\motion-fx.min-1.css
+Content Type: text/css
+
+Uri: https://maniart.vn/wp-content/plugins/elementor-pro/assets/css/modules/sticky.min.css?ver=3.31.3
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\elementor-pro\assets\css\modules\sticky.min-1.css
+Content Type: text/css
+
+Uri: https://maniart.vn/wp-content/plugins/elementor-pro/assets/css/widget-carousel-module-base.min.css?ver=3.31.3
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\elementor-pro\assets\css\widget-carousel-module-base.min-1.css
+Content Type: text/css
+
+Uri: https://maniart.vn/wp-content/plugins/elementor-pro/assets/css/widget-flip-box.min.css?ver=3.31.3
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\elementor-pro\assets\css\widget-flip-box.min-1.css
+Content Type: text/css
+
+Uri: https://maniart.vn/wp-content/plugins/elementor-pro/assets/css/widget-form.min.css?ver=3.31.3
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\elementor-pro\assets\css\widget-form.min-1.css
+Content Type: text/css
+
+Uri: https://maniart.vn/wp-content/plugins/elementor-pro/assets/css/widget-lottie.min.css?ver=3.31.3
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\elementor-pro\assets\css\widget-lottie.min-1.css
+Content Type: text/css
+
+Uri: https://maniart.vn/wp-content/plugins/elementor-pro/assets/css/widget-media-carousel.min.css?ver=3.31.3
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\elementor-pro\assets\css\widget-media-carousel.min-1.css
+Content Type: text/css
+
+Uri: https://maniart.vn/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css?ver=3.31.3
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\elementor-pro\assets\css\widget-nav-menu.min-1.css
+Content Type: text/css
+
+Uri: https://maniart.vn/wp-content/plugins/elementor-pro/assets/css/widget-slides.min.css?ver=3.31.3
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\elementor-pro\assets\css\widget-slides.min-1.css
+Content Type: text/css
+
+Uri: https://maniart.vn/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.31.3
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\elementor-pro\assets\js\elements-handlers.min-1.js
+Content Type: application/javascript
+
+Uri: https://maniart.vn/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.31.3
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\elementor-pro\assets\js\frontend.min-1.js
+Content Type: application/javascript
+
+Uri: https://maniart.vn/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.31.3
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min-1.js
+Content Type: application/javascript
+
+Uri: https://maniart.vn/wp-content/plugins/elementor-pro/assets/lib/lottie/lottie.min.js?ver=5.6.6
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\elementor-pro\assets\lib\lottie\lottie.min.js
+Content Type: application/javascript
+
+Uri: https://maniart.vn/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.2.1
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\elementor-pro\assets\lib\smartmenus\jquery.smartmenus.min.js
+Content Type: application/javascript
+
+Uri: https://maniart.vn/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.31.3
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\elementor-pro\assets\lib\sticky\jquery.sticky.min-1.js
+Content Type: application/javascript
+
+Uri: https://maniart.vn/wp-content/plugins/elementor/assets/css/conditionals/apple-webkit.min.css?ver=3.31.5
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\elementor\assets\css\conditionals\apple-webkit.min-1.css
+Content Type: text/css
+
+Uri: https://maniart.vn/wp-content/plugins/elementor/assets/css/conditionals/e-swiper.min.css?ver=3.31.5
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\elementor\assets\css\conditionals\e-swiper.min-1.css
+Content Type: text/css
+
+Uri: https://maniart.vn/wp-content/plugins/elementor/assets/css/conditionals/shapes.min.css?ver=3.31.5
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\elementor\assets\css\conditionals\shapes.min-1.css
+Content Type: text/css
+
+Uri: https://maniart.vn/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.31.5
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\elementor\assets\css\frontend.min-1.css
+Content Type: text/css
+
+Uri: https://maniart.vn/wp-content/plugins/elementor/assets/css/widget-divider.min.css?ver=3.31.5
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\elementor\assets\css\widget-divider.min-1.css
+Content Type: text/css
+
+Uri: https://maniart.vn/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.31.5
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\elementor\assets\css\widget-heading.min-1.css
+Content Type: text/css
+
+Uri: https://maniart.vn/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css?ver=3.31.5
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\elementor\assets\css\widget-icon-box.min-1.css
+Content Type: text/css
+
+Uri: https://maniart.vn/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=3.31.5
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\elementor\assets\css\widget-icon-list.min-1.css
+Content Type: text/css
+
+Uri: https://maniart.vn/wp-content/plugins/elementor/assets/css/widget-image-box.min.css?ver=3.31.5
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\elementor\assets\css\widget-image-box.min-1.css
+Content Type: text/css
+
+Uri: https://maniart.vn/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.31.5
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\elementor\assets\css\widget-image.min-1.css
+Content Type: text/css
+
+Uri: https://maniart.vn/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=3.31.5
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\elementor\assets\css\widget-social-icons.min-1.css
+Content Type: text/css
+
+Uri: https://maniart.vn/wp-content/plugins/elementor/assets/css/widget-spacer.min.css?ver=3.31.5
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\elementor\assets\css\widget-spacer.min-1.css
+Content Type: text/css
+
+Uri: https://maniart.vn/wp-content/plugins/elementor/assets/css/widget-toggle.min.css?ver=3.31.5
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\elementor\assets\css\widget-toggle.min-1.css
+Content Type: text/css
+
+Uri: https://maniart.vn/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.31.5
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\elementor\assets\js\frontend-modules.min-1.js
+Content Type: application/javascript
+
+Uri: https://maniart.vn/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.31.5
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\elementor\assets\js\frontend.min-1.js
+Content Type: application/javascript
+
+Uri: https://maniart.vn/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.31.5
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\elementor\assets\js\webpack.runtime.min-1.js
+Content Type: application/javascript
+
+Uri: https://maniart.vn/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-float.min.css?ver=3.31.5
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\elementor\assets\lib\animations\styles\e-animation-float.min-1.css
+Content Type: text/css
+
+Uri: https://maniart.vn/wp-content/plugins/elementor/assets/lib/animations/styles/e-animation-grow.min.css?ver=3.31.5
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\elementor\assets\lib\animations\styles\e-animation-grow.min-1.css
+Content Type: text/css
+
+Uri: https://maniart.vn/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInUp.min.css?ver=3.31.5
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\elementor\assets\lib\animations\styles\fadeInUp.min-1.css
+Content Type: text/css
+
+Uri: https://maniart.vn/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.43.0
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://maniart.vn/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.43.0
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maniart.vn/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.43.0
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://maniart.vn/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.43.0
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: font/ttf
+
+Uri: https://maniart.vn/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.43.0
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.43.0
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: font/woff
+
+Uri: https://maniart.vn/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.31.5
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\elementor\assets\lib\font-awesome\css\all.min-1.css
+Content Type: text/css
+
+Uri: https://maniart.vn/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\elementor\assets\lib\font-awesome\css\brands.min.css
+Content Type: text/css
+
+Uri: https://maniart.vn/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://maniart.vn/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\elementor\assets\lib\font-awesome\css\regular.min.css
+Content Type: text/css
+
+Uri: https://maniart.vn/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: https://maniart.vn/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.31.5
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\elementor\assets\lib\font-awesome\css\v4-shims.min-1.css
+Content Type: text/css
+
+Uri: https://maniart.vn/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.31.5
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\elementor\assets\lib\font-awesome\js\v4-shims.min-1.js
+Content Type: application/javascript
+
+Uri: https://maniart.vn/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maniart.vn/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maniart.vn/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://maniart.vn/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://maniart.vn/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://maniart.vn/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maniart.vn/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maniart.vn/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://maniart.vn/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://maniart.vn/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://maniart.vn/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maniart.vn/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maniart.vn/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://maniart.vn/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://maniart.vn/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://maniart.vn/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\elementor\assets\lib\swiper\v8\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://maniart.vn/wp-content/plugins/elementor/assets/lib/swiper/v8/swiper.min.js?ver=8.4.5
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\elementor\assets\lib\swiper\v8\swiper.min.js
+Content Type: application/javascript
+
+Uri: https://maniart.vn/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/css/view/general.min.css?ver=6.3.1
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\essential-addons-for-elementor-lite\assets\front-end\css\view\general.min.css
+Content Type: text/css
+
+Uri: https://maniart.vn/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/img/play-icon.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\essential-addons-for-elementor-lite\assets\front-end\img\play-icon.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/plugins/essential-addons-for-elementor-lite/assets/front-end/js/view/general.min.js?ver=6.3.1
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\essential-addons-for-elementor-lite\assets\front-end\js\view\general.min.js
+Content Type: application/javascript
+
+Uri: https://maniart.vn/wp-content/plugins/happy-elementor-addons/assets/fonts/happy-icons.svg
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\happy-elementor-addons\assets\fonts\happy-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://maniart.vn/wp-content/plugins/happy-elementor-addons/assets/fonts/happy-icons.woff
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\happy-elementor-addons\assets\fonts\happy-icons.woff
+Content Type: font/woff
+
+Uri: https://maniart.vn/wp-content/plugins/happy-elementor-addons/assets/fonts/happy-icons.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\happy-elementor-addons\assets\fonts\happy-icons.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/plugins/happy-elementor-addons/assets/fonts/style.min.css?ver=3.20.0
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\happy-elementor-addons\assets\fonts\style.min.css
+Content Type: text/css
+
+Uri: https://maniart.vn/wp-content/plugins/happy-elementor-addons/assets/js/extension-reading-progress-bar.min.js?ver=3.20.0
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\happy-elementor-addons\assets\js\extension-reading-progress-bar.min.js
+Content Type: application/javascript
+
+Uri: https://maniart.vn/wp-content/plugins/happy-elementor-addons/assets/js/happy-addons.min.js?ver=3.20.0
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\happy-elementor-addons\assets\js\happy-addons.min.js
+Content Type: application/javascript
+
+Uri: https://maniart.vn/wp-content/plugins/happy-elementor-addons/assets/vendor/dom-purify/purify.min.js?ver=3.1.6
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\happy-elementor-addons\assets\vendor\dom-purify\purify.min.js
+Content Type: application/javascript
+
+Uri: https://maniart.vn/wp-content/plugins/litespeed-cache/assets/css/litespeed-dummy.css?ver=6.8.2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\litespeed-cache\assets\css\litespeed-dummy.css
+Content Type: text/css
+
+Uri: https://maniart.vn/wp-content/plugins/ocean-extra/assets/css/widgets.css?ver=6.8.2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\ocean-extra\assets\css\widgets.css
+Content Type: text/css
+
+Uri: https://maniart.vn/wp-content/plugins/ocean-extra/assets/img/flickr.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\ocean-extra\assets\img\flickr.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/plugins/ocean-extra/assets/img/instagram-logo.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\ocean-extra\assets\img\instagram-logo.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/plugins/ocean-extra/includes/widgets/js/flickr.min.js?ver=6.8.2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\plugins\ocean-extra\includes\widgets\js\flickr.min.js
+Content Type: application/javascript
+
+Uri: https://maniart.vn/wp-content/themes/oceanwp/assets/css/style.min.css?ver=4.0.8
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\themes\oceanwp\assets\css\style.min.css
+Content Type: text/css
+
+Uri: https://maniart.vn/wp-content/themes/oceanwp/assets/css/third/simple-line-icons.min.css?ver=2.4.0
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\themes\oceanwp\assets\css\third\simple-line-icons.min.css
+Content Type: text/css
+
+Uri: https://maniart.vn/wp-content/themes/oceanwp/assets/fonts/fontawesome/css/all.min.css?ver=6.7.2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\themes\oceanwp\assets\fonts\fontawesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://maniart.vn/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://maniart.vn/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://maniart.vn/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://maniart.vn/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-v4compatibility.ttf
+Content Type: font/ttf
+
+Uri: https://maniart.vn/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-v4compatibility.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.eot?v=2.4.0
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\themes\oceanwp\assets\fonts\simple-line-icons\Simple-Line-Icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maniart.vn/wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.svg?v=2.4.0
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\themes\oceanwp\assets\fonts\simple-line-icons\Simple-Line-Icons.svg
+Content Type: image/svg+xml
+
+Uri: https://maniart.vn/wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.ttf?v=2.4.0
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\themes\oceanwp\assets\fonts\simple-line-icons\Simple-Line-Icons.ttf
+Content Type: font/ttf
+
+Uri: https://maniart.vn/wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.woff2?v=2.4.0
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\themes\oceanwp\assets\fonts\simple-line-icons\Simple-Line-Icons.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.woff?v=2.4.0
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\themes\oceanwp\assets\fonts\simple-line-icons\Simple-Line-Icons.woff
+Content Type: font/woff
+
+Uri: https://maniart.vn/wp-content/themes/oceanwp/assets/js/drop-down-mobile-menu.min.js?ver=4.0.8
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\themes\oceanwp\assets\js\drop-down-mobile-menu.min.js
+Content Type: application/javascript
+
+Uri: https://maniart.vn/wp-content/themes/oceanwp/assets/js/drop-down-search.min.js?ver=4.0.8
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\themes\oceanwp\assets\js\drop-down-search.min.js
+Content Type: application/javascript
+
+Uri: https://maniart.vn/wp-content/themes/oceanwp/assets/js/ow-lightbox.min.js?ver=4.0.8
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\themes\oceanwp\assets\js\ow-lightbox.min.js
+Content Type: application/javascript
+
+Uri: https://maniart.vn/wp-content/themes/oceanwp/assets/js/ow-slider.min.js?ver=4.0.8
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\themes\oceanwp\assets\js\ow-slider.min.js
+Content Type: application/javascript
+
+Uri: https://maniart.vn/wp-content/themes/oceanwp/assets/js/scroll-effect.min.js?ver=4.0.8
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\themes\oceanwp\assets\js\scroll-effect.min.js
+Content Type: application/javascript
+
+Uri: https://maniart.vn/wp-content/themes/oceanwp/assets/js/scroll-top.min.js?ver=4.0.8
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\themes\oceanwp\assets\js\scroll-top.min.js
+Content Type: application/javascript
+
+Uri: https://maniart.vn/wp-content/themes/oceanwp/assets/js/select.min.js?ver=4.0.8
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\themes\oceanwp\assets\js\select.min.js
+Content Type: application/javascript
+
+Uri: https://maniart.vn/wp-content/themes/oceanwp/assets/js/theme.min.js?ver=4.0.8
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\themes\oceanwp\assets\js\theme.min.js
+Content Type: application/javascript
+
+Uri: https://maniart.vn/wp-content/themes/oceanwp/assets/js/vendors/flickity.pkgd.min.js?ver=4.0.8
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\themes\oceanwp\assets\js\vendors\flickity.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://maniart.vn/wp-content/themes/oceanwp/assets/js/vendors/magnific-popup.min.js?ver=4.0.8
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\themes\oceanwp\assets\js\vendors\magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://maniart.vn/wp-content/uploads/2020/10/cropped-maniart-logo-01-180x180.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2020\10\cropped-maniart-logo-01-180x180.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2020/10/cropped-maniart-logo-01-192x192.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2020\10\cropped-maniart-logo-01-192x192.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2020/10/cropped-maniart-logo-01-32x32.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2020\10\cropped-maniart-logo-01-32x32.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2020/11/back-khoa-hoc-02-1.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2020\11\back-khoa-hoc-02-1.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2020/11/back-khoa-hoc-03.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2020\11\back-khoa-hoc-03.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2020/11/Ban-sao-cua-finalX-Recap-VNS-Bamboo_Moment.jpg
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2020\11\Ban-sao-cua-finalX-Recap-VNS-Bamboo_Moment.jpg
+Content Type: image/jpeg
+
+Uri: https://maniart.vn/wp-content/uploads/2020/11/Ban-sao-cua-Jogarbola-Seagame-30_Moment.jpg
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2020\11\Ban-sao-cua-Jogarbola-Seagame-30_Moment.jpg
+Content Type: image/jpeg
+
+Uri: https://maniart.vn/wp-content/uploads/2020/11/BG-contact-hero-New.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2020\11\BG-contact-hero-New.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2020/11/BG-contact-info.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2020\11\BG-contact-info.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2020/11/BG-Form-Contact-Us.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2020\11\BG-Form-Contact-Us.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2020/11/Lan-Den-Voi-Phuc-lyric_Moment.jpg
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2020\11\Lan-Den-Voi-Phuc-lyric_Moment.jpg
+Content Type: image/jpeg
+
+Uri: https://maniart.vn/wp-content/uploads/2020/11/Location-Icon-1-300x264.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2020\11\Location-Icon-1-300x264.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2020/11/Location-Icon-1.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2020\11\Location-Icon-1.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2020/11/Mail-icon-1-300x264.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2020\11\Mail-icon-1-300x264.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2020/11/Mail-icon-1.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2020\11\Mail-icon-1.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2020/11/Phoneicon-1-300x260.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2020\11\Phoneicon-1-300x260.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2020/11/Phoneicon-1.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2020\11\Phoneicon-1.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2021/01/avaex-e1612112536568-150x150.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2021\01\avaex-e1612112536568-150x150.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2021/01/bia2-01.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2021\01\bia2-01.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2021/02/69509858_1272846639552801_2153004167034044416_o-1-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2021\02\69509858_1272846639552801_2153004167034044416_o-1-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://maniart.vn/wp-content/uploads/2021/02/69509858_1272846639552801_2153004167034044416_o-1-150x150.jpg
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2021\02\69509858_1272846639552801_2153004167034044416_o-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://maniart.vn/wp-content/uploads/2021/02/69509858_1272846639552801_2153004167034044416_o-1-1536x1536.jpg
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2021\02\69509858_1272846639552801_2153004167034044416_o-1-1536x1536.jpg
+Content Type: image/jpeg
+
+Uri: https://maniart.vn/wp-content/uploads/2021/02/69509858_1272846639552801_2153004167034044416_o-1-300x300.jpg
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2021\02\69509858_1272846639552801_2153004167034044416_o-1-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://maniart.vn/wp-content/uploads/2021/02/69509858_1272846639552801_2153004167034044416_o-1-768x768.jpg
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2021\02\69509858_1272846639552801_2153004167034044416_o-1-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://maniart.vn/wp-content/uploads/2021/02/69509858_1272846639552801_2153004167034044416_o-1.jpg
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2021\02\69509858_1272846639552801_2153004167034044416_o-1.jpg
+Content Type: image/jpeg
+
+Uri: https://maniart.vn/wp-content/uploads/2022/03/maniart-logo-icon-01-150x150.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2022\03\maniart-logo-icon-01-150x150.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2022/03/maniart-logo-icon-01-300x300.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2022\03\maniart-logo-icon-01-300x300.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2022/03/maniart-logo-icon-01-768x769.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2022\03\maniart-logo-icon-01-768x769.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2022/03/maniart-logo-icon-01.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2022\03\maniart-logo-icon-01.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2022/04/2-thumb-richhabits-e1649700437261.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2022\04\2-thumb-richhabits-e1649700437261.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2022/04/ACB-Bank-logo-01-1-e1649619877242-287x300.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2022\04\ACB-Bank-logo-01-1-e1649619877242-287x300.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2022/04/ACB-Bank-logo-01-1-e1649619877242-768x802.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2022\04\ACB-Bank-logo-01-1-e1649619877242-768x802.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2022/04/ACB-Bank-logo-01-1-e1649619877242.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2022\04\ACB-Bank-logo-01-1-e1649619877242.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2022/04/adt-150x150.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2022\04\adt-150x150.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2022/04/adt-300x300.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2022\04\adt-300x300.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2022/04/adt-600x600.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2022\04\adt-600x600.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2022/04/adt-768x768.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2022\04\adt-768x768.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2022/04/adt.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2022\04\adt.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2022/04/bidv-02-e1649617532293-300x243.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2022\04\bidv-02-e1649617532293-300x243.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2022/04/bidv-02-e1649617532293.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2022\04\bidv-02-e1649617532293.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2022/04/blank-02.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2022\04\blank-02.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2022/04/cuvo-logo-trang-e1649619315105-281x300.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2022\04\cuvo-logo-trang-e1649619315105-281x300.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2022/04/cuvo-logo-trang-e1649619315105.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2022\04\cuvo-logo-trang-e1649619315105.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2022/04/DEWEY_LOGO_white-e1649614807266-300x226.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2022\04\DEWEY_LOGO_white-e1649614807266-300x226.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2022/04/DEWEY_LOGO_white-e1649614807266.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2022\04\DEWEY_LOGO_white-e1649614807266.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2022/04/evn-01-e1649619735661-300x201.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2022\04\evn-01-e1649619735661-300x201.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2022/04/evn-01-e1649619735661-768x516.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2022\04\evn-01-e1649619735661-768x516.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2022/04/evn-01-e1649619735661.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2022\04\evn-01-e1649619735661.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2022/04/fpt-01-e1649620247793-1024x540.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2022\04\fpt-01-e1649620247793-1024x540.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2022/04/fpt-01-e1649620247793-300x158.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2022\04\fpt-01-e1649620247793-300x158.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2022/04/fpt-01-e1649620247793-768x405.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2022\04\fpt-01-e1649620247793-768x405.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2022/04/fpt-01-e1649620247793.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2022\04\fpt-01-e1649620247793.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2022/04/JA-01-e1649617465920-300x202.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2022\04\JA-01-e1649617465920-300x202.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2022/04/JA-01-e1649617465920.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2022\04\JA-01-e1649617465920.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2022/04/JGBL-01-300x220.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2022\04\JGBL-01-300x220.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2022/04/JGBL-01.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2022\04\JGBL-01.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2022/04/Logo-ARUNA-ani-02-e1649617588273-2048x1402.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2022\04\Logo-ARUNA-ani-02-e1649617588273-2048x1402.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2022/04/logo-det-xua-01-e1649616237360-1024x649.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2022\04\logo-det-xua-01-e1649616237360-1024x649.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2022/04/logo-det-xua-01-e1649616237360-1536x973.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2022\04\logo-det-xua-01-e1649616237360-1536x973.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2022/04/logo-det-xua-01-e1649616237360-2048x1297.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2022\04\logo-det-xua-01-e1649616237360-2048x1297.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2022/04/logo-det-xua-01-e1649616237360-300x190.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2022\04\logo-det-xua-01-e1649616237360-300x190.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2022/04/logo-det-xua-01-e1649616237360-768x486.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2022\04\logo-det-xua-01-e1649616237360-768x486.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2022/04/RCE-01-1024x576.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2022\04\RCE-01-1024x576.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2022/04/RCE-01-1536x864.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2022\04\RCE-01-1536x864.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2022/04/RCE-01-300x169.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2022\04\RCE-01-300x169.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2022/04/RCE-01-768x432.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2022\04\RCE-01-768x432.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2022/04/RCE-01-800x450.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2022\04\RCE-01-800x450.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2022/04/RCE-01.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2022\04\RCE-01.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2022/04/samsung-01-300x212.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2022\04\samsung-01-300x212.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2022/04/samsung-01.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2022\04\samsung-01.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2022/04/techcombank-01-e1649616353361-300x273.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2022\04\techcombank-01-e1649616353361-300x273.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2022/04/techcombank-01-e1649616353361.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2022\04\techcombank-01-e1649616353361.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2022/04/thumb-dem-nga-khong-dau-2.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2022\04\thumb-dem-nga-khong-dau-2.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2022/04/VNA-LOGO-vert-blue-01-e1649614925125-300x189.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2022\04\VNA-LOGO-vert-blue-01-e1649614925125-300x189.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2022/04/VNA-LOGO-vert-blue-01-e1649614925125.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2022\04\VNA-LOGO-vert-blue-01-e1649614925125.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2022/06/Viet-Solar-Home.jpg
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2022\06\Viet-Solar-Home.jpg
+Content Type: image/jpeg
+
+Uri: https://maniart.vn/wp-content/uploads/2022/12/thumb-advantech.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2022\12\thumb-advantech.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2023/07/THUMB-mirai.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2023\07\THUMB-mirai.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2023/11/THUMB-POLYCO.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2023\11\THUMB-POLYCO.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2023/11/THUMB-Thai-Hoa.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2023\11\THUMB-Thai-Hoa.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2024/03/Hanoi-academy-TVC-school-Ads-school.png
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2024\03\Hanoi-academy-TVC-school-Ads-school.png
+Content Type: image/png
+
+Uri: https://maniart.vn/wp-content/uploads/2024/11/MV.jpg
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2024\11\MV.jpg
+Content Type: image/jpeg
+
+Uri: https://maniart.vn/wp-content/uploads/2024/11/THUMB-web-1.jpg
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2024\11\THUMB-web-1.jpg
+Content Type: image/jpeg
+
+Uri: https://maniart.vn/wp-content/uploads/2024/11/THUMB-web-2.jpg
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2024\11\THUMB-web-2.jpg
+Content Type: image/jpeg
+
+Uri: https://maniart.vn/wp-content/uploads/2024/11/untitled-14.jpg
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2024\11\untitled-14.jpg
+Content Type: image/jpeg
+
+Uri: https://maniart.vn/wp-content/uploads/2024/11/untitled-3.jpg
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2024\11\untitled-3.jpg
+Content Type: image/jpeg
+
+Uri: https://maniart.vn/wp-content/uploads/2024/11/untitled-35.jpg
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2024\11\untitled-35.jpg
+Content Type: image/jpeg
+
+Uri: https://maniart.vn/wp-content/uploads/2024/11/untitled-41.jpg
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2024\11\untitled-41.jpg
+Content Type: image/jpeg
+
+Uri: https://maniart.vn/wp-content/uploads/2024/11/untitled-9.jpg
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2024\11\untitled-9.jpg
+Content Type: image/jpeg
+
+Uri: https://maniart.vn/wp-content/uploads/2024/11/untitled.jpg
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\2024\11\untitled.jpg
+Content Type: image/jpeg
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/css/post-10.css?ver=1757678421
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\css\post-10-1.css
+Content Type: text/css
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/css/post-278.css?ver=1757654514
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\css\post-278-1.css
+Content Type: text/css
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/css/post-35.css?ver=1757654513
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\css\post-35-1.css
+Content Type: text/css
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/css/post-565.css?ver=1757678418
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\css\post-565-1.css
+Content Type: text/css
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/css/post-577.css?ver=1757678418
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\css\post-577-1.css
+Content Type: text/css
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/css/post-6.css?ver=1757654513
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\css\post-6-1.css
+Content Type: text/css
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/css/post-672.css?ver=1757662690
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\css\post-672-1.css
+Content Type: text/css
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/css/post-8.css?ver=1757654513
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\css\post-8-1.css
+Content Type: text/css
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/custom-icons/adobe-2/fonts/adobe.eot
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\custom-icons\adobe-2\fonts\adobe.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/custom-icons/adobe-2/fonts/adobe.eot?
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\custom-icons\adobe-2\fonts\adobe-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/custom-icons/adobe-2/fonts/adobe.svg
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\custom-icons\adobe-2\fonts\adobe.svg
+Content Type: image/svg+xml
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/custom-icons/adobe-2/fonts/adobe.ttf
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\custom-icons\adobe-2\fonts\adobe.ttf
+Content Type: font/ttf
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/custom-icons/adobe-2/fonts/adobe.woff
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\custom-icons\adobe-2\fonts\adobe.woff
+Content Type: font/woff
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/custom-icons/adobe-2/styles.css?ver=1.0.0
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\custom-icons\adobe-2\styles.css
+Content Type: text/css
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/css/firasanscondensed.css?ver=1742238532
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\css\firasanscondensed.css
+Content Type: text/css
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/css/montserrat.css?ver=1742238528
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\css\montserrat.css
+Content Type: text/css
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/css/poppins.css?ver=1742238528
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\css\poppins.css
+Content Type: text/css
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/css/roboto.css?ver=1742232190
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\css\roboto.css
+Content Type: text/css
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/css/robotoslab.css?ver=1742232192
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\css\robotoslab.css
+Content Type: text/css
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/css/varelaround.css?ver=1742303449
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\css\varelaround.css
+Content Type: text/css
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoheadfm8hsaqtfg18fervhsc9x-tarufbtrq.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoheadfm8hsaqtfg18fervhsc9x-tarufbtrq.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoheadfm8hsaqtfg18fervhsc9x-tarufjtrftv.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoheadfm8hsaqtfg18fervhsc9x-tarufjtrftv.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoheadfm8hsaqtfg18fervhsc9x-tarufltrftv.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoheadfm8hsaqtfg18fervhsc9x-tarufltrftv.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoheadfm8hsaqtfg18fervhsc9x-tarufntrftv.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoheadfm8hsaqtfg18fervhsc9x-tarufntrftv.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoheadfm8hsaqtfg18fervhsc9x-tarufrtrftv.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoheadfm8hsaqtfg18fervhsc9x-tarufrtrftv.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoheadfm8hsaqtfg18fervhsc9x-tarufvtrftv.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoheadfm8hsaqtfg18fervhsc9x-tarufvtrftv.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoheadfm8hsaqtfg18fervhsc9x-tarufxtrftv.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoheadfm8hsaqtfg18fervhsc9x-tarufxtrftv.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weojeadfm8hsaqtfg18fervhsc9x-tarufpdo-nrtx8.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weojeadfm8hsaqtfg18fervhsc9x-tarufpdo-nrtx8.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weojeadfm8hsaqtfg18fervhsc9x-tarufpdoenrtx8.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weojeadfm8hsaqtfg18fervhsc9x-tarufpdoenrtx8.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weojeadfm8hsaqtfg18fervhsc9x-tarufpdoonrtx8.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weojeadfm8hsaqtfg18fervhsc9x-tarufpdoonrtx8.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weojeadfm8hsaqtfg18fervhsc9x-tarufpdounrtx8.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weojeadfm8hsaqtfg18fervhsc9x-tarufpdounrtx8.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weojeadfm8hsaqtfg18fervhsc9x-tarufpdq-nrtx8.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weojeadfm8hsaqtfg18fervhsc9x-tarufpdq-nrtx8.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weojeadfm8hsaqtfg18fervhsc9x-tarufpdr-nr.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weojeadfm8hsaqtfg18fervhsc9x-tarufpdr-nr.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weojeadfm8hsaqtfg18fervhsc9x-tarufpdronrtx8.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weojeadfm8hsaqtfg18fervhsc9x-tarufpdronrtx8.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weojeadfm8hsaqtfg18fervhsc9x-tarwzxdo-nrtx8.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weojeadfm8hsaqtfg18fervhsc9x-tarwzxdo-nrtx8.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weojeadfm8hsaqtfg18fervhsc9x-tarwzxdoenrtx8.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weojeadfm8hsaqtfg18fervhsc9x-tarwzxdoenrtx8.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weojeadfm8hsaqtfg18fervhsc9x-tarwzxdoonrtx8.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weojeadfm8hsaqtfg18fervhsc9x-tarwzxdoonrtx8.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weojeadfm8hsaqtfg18fervhsc9x-tarwzxdounrtx8.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weojeadfm8hsaqtfg18fervhsc9x-tarwzxdounrtx8.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weojeadfm8hsaqtfg18fervhsc9x-tarwzxdq-nrtx8.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weojeadfm8hsaqtfg18fervhsc9x-tarwzxdq-nrtx8.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weojeadfm8hsaqtfg18fervhsc9x-tarwzxdr-nr.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weojeadfm8hsaqtfg18fervhsc9x-tarwzxdr-nr.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weojeadfm8hsaqtfg18fervhsc9x-tarwzxdronrtx8.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weojeadfm8hsaqtfg18fervhsc9x-tarwzxdronrtx8.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwqxoumb0cizb.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwqxoumb0cizb.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwqxoumd0cizb.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwqxoumd0cizb.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwqxoumh0cizb.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwqxoumh0cizb.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwqxouml0cizb.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwqxouml0cizb.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwqxoump0cizb.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwqxoump0cizb.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwqxoumr0cg.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwqxoumr0cg.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwqxoumt0cizb.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwqxoumt0cizb.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwsnjumb0cizb.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwsnjumb0cizb.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwsnjumd0cizb.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwsnjumd0cizb.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwsnjumh0cizb.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwsnjumh0cizb.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwsnjuml0cizb.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwsnjuml0cizb.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwsnjump0cizb.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwsnjump0cizb.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwsnjumr0cg.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwsnjumr0cg.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwsnjumt0cizb.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwsnjumt0cizb.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwtnmumb0cizb.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwtnmumb0cizb.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwtnmumd0cizb.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwtnmumd0cizb.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwtnmumh0cizb.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwtnmumh0cizb.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwtnmuml0cizb.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwtnmuml0cizb.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwtnmump0cizb.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwtnmump0cizb.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwtnmumr0cg.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwtnmumr0cg.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwtnmumt0cizb.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwtnmumt0cizb.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwu3iumb0cizb.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwu3iumb0cizb.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwu3iumd0cizb.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwu3iumd0cizb.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwu3iumh0cizb.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwu3iumh0cizb.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwu3iuml0cizb.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwu3iuml0cizb.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwu3iump0cizb.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwu3iump0cizb.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwu3iumr0cg.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwu3iumr0cg.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwu3iumt0cizb.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwu3iumt0cizb.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwv3pumb0cizb.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwv3pumb0cizb.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwv3pumd0cizb.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwv3pumd0cizb.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwv3pumh0cizb.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwv3pumh0cizb.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwv3puml0cizb.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwv3puml0cizb.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwv3pump0cizb.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwv3pump0cizb.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwv3pumr0cg.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwv3pumr0cg.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwv3pumt0cizb.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwv3pumt0cizb.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwvhlumb0cizb.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwvhlumb0cizb.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwvhlumd0cizb.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwvhlumd0cizb.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwvhlumh0cizb.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwvhlumh0cizb.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwvhluml0cizb.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwvhluml0cizb.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwvhlump0cizb.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwvhlump0cizb.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwvhlumr0cg.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwvhlumr0cg.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwvhlumt0cizb.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwvhlumt0cizb.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwxxkumb0cizb.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwxxkumb0cizb.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwxxkumd0cizb.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwxxkumd0cizb.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwxxkumh0cizb.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwxxkumh0cizb.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwxxkuml0cizb.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwxxkuml0cizb.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwxxkump0cizb.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwxxkump0cizb.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwxxkumr0cg.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwxxkumr0cg.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwxxkumt0cizb.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoseadfm8hsaqtfg18fervhsc9x-tarwxxkumt0cizb.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoteadfm8hsaqtfg18fervhsc9x-tarufpvznncvxtija.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoteadfm8hsaqtfg18fervhsc9x-tarufpvznncvxtija.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoteadfm8hsaqtfg18fervhsc9x-tarufpvznndvxtija.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoteadfm8hsaqtfg18fervhsc9x-tarufpvznndvxtija.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoteadfm8hsaqtfg18fervhsc9x-tarufpvznnevxtija.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoteadfm8hsaqtfg18fervhsc9x-tarufpvznnevxtija.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoteadfm8hsaqtfg18fervhsc9x-tarufpvznnfvxtija.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoteadfm8hsaqtfg18fervhsc9x-tarufpvznnfvxtija.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoteadfm8hsaqtfg18fervhsc9x-tarufpvznnqvxtija.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoteadfm8hsaqtfg18fervhsc9x-tarufpvznnqvxtija.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoteadfm8hsaqtfg18fervhsc9x-tarufpvznntvxs.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoteadfm8hsaqtfg18fervhsc9x-tarufpvznntvxs.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoteadfm8hsaqtfg18fervhsc9x-tarufpvznnxvxtija.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoteadfm8hsaqtfg18fervhsc9x-tarufpvznnxvxtija.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvbmfecd5f.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvbmfecd5f.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvbmfecz5fty4.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvbmfecz5fty4.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvbmfedd5fty4.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvbmfedd5fty4.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvbmfefd5fty4.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvbmfefd5fty4.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvbmfefj5fty4.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvbmfefj5fty4.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvbmfeft5fty4.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvbmfeft5fty4.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvbmfefz5fty4.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvbmfefz5fty4.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvcmdecd5f.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvcmdecd5f.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvcmdecz5fty4.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvcmdecz5fty4.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvcmdedd5fty4.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvcmdedd5fty4.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvcmdefd5fty4.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvcmdefd5fty4.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvcmdefj5fty4.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvcmdefj5fty4.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvcmdeft5fty4.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvcmdeft5fty4.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvcmdefz5fty4.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvcmdefz5fty4.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvcmvecd5f.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvcmvecd5f.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvcmvecz5fty4.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvcmvecz5fty4.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvcmvedd5fty4.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvcmvedd5fty4.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvcmvefd5fty4.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvcmvefd5fty4.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvcmvefj5fty4.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvcmvefj5fty4.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvcmveft5fty4.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvcmveft5fty4.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvcmvefz5fty4.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvcmvefz5fty4.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvfmzecd5f.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvfmzecd5f.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvfmzecz5fty4.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvfmzecz5fty4.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvfmzedd5fty4.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvfmzedd5fty4.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvfmzefd5fty4.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvfmzefd5fty4.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvfmzefj5fty4.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvfmzefj5fty4.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvfmzeft5fty4.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvfmzeft5fty4.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvfmzefz5fty4.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvfmzefz5fty4.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvlmrecd5f.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvlmrecd5f.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvlmrecz5fty4.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvlmrecz5fty4.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvlmredd5fty4.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvlmredd5fty4.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvlmrefd5fty4.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvlmrefd5fty4.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvlmrefj5fty4.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvlmrefj5fty4.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvlmreft5fty4.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvlmreft5fty4.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvlmrefz5fty4.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvlmrefz5fty4.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvxmbecd5f.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvxmbecd5f.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvxmbecz5fty4.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvxmbecz5fty4.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvxmbedd5fty4.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvxmbedd5fty4.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvxmbefd5fty4.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvxmbefd5fty4.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvxmbefj5fty4.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvxmbefj5fty4.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvxmbeft5fty4.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvxmbeft5fty4.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvxmbefz5fty4.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvxmbefz5fty4.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvymjecd5f.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvymjecd5f.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvymjecz5fty4.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvymjecz5fty4.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvymjedd5fty4.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvymjedd5fty4.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvymjefd5fty4.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvymjefd5fty4.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvymjefj5fty4.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvymjefj5fty4.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvymjeft5fty4.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvymjeft5fty4.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvymjefz5fty4.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\firasanscondensed-weoueadfm8hsaqtfg18fervhsc9x-tarufpvymjefz5fty4.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/montserrat-jtuqjig1_i6t8kchkm459wxrxc7mw9c.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\montserrat-jtuqjig1_i6t8kchkm459wxrxc7mw9c.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/montserrat-jtuqjig1_i6t8kchkm459wxrxi7mw9c.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\montserrat-jtuqjig1_i6t8kchkm459wxrxi7mw9c.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/montserrat-jtuqjig1_i6t8kchkm459wxrxy7mw9c.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\montserrat-jtuqjig1_i6t8kchkm459wxrxy7mw9c.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/montserrat-jtuqjig1_i6t8kchkm459wxrys7m.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\montserrat-jtuqjig1_i6t8kchkm459wxrys7m.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/montserrat-jtuqjig1_i6t8kchkm459wxrzs7mw9c.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\montserrat-jtuqjig1_i6t8kchkm459wxrzs7mw9c.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/montserrat-jtusjig1_i6t8kchkm459w1hyzbi.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\montserrat-jtusjig1_i6t8kchkm459w1hyzbi.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/montserrat-jtusjig1_i6t8kchkm459wdhyzbi.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\montserrat-jtusjig1_i6t8kchkm459wdhyzbi.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/montserrat-jtusjig1_i6t8kchkm459wlhyw.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\montserrat-jtusjig1_i6t8kchkm459wlhyw.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/montserrat-jtusjig1_i6t8kchkm459wrhyzbi.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\montserrat-jtusjig1_i6t8kchkm459wrhyzbi.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/montserrat-jtusjig1_i6t8kchkm459wzhyzbi.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\montserrat-jtusjig1_i6t8kchkm459wzhyzbi.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxiayp8kv8jhgfvrjjlme0tcmpi.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxiayp8kv8jhgfvrjjlme0tcmpi.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxiayp8kv8jhgfvrjjlme0tmmpkzsq.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxiayp8kv8jhgfvrjjlme0tmmpkzsq.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrlbt5z1jlfc-k.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxibyp8kv8jhgfvrlbt5z1jlfc-k.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrlbt5z1xlfq.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxibyp8kv8jhgfvrlbt5z1xlfq.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrlcz7z1jlfc-k.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxibyp8kv8jhgfvrlcz7z1jlfc-k.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrlcz7z1xlfq.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxibyp8kv8jhgfvrlcz7z1xlfq.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrldd4z1jlfc-k.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxibyp8kv8jhgfvrldd4z1jlfc-k.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrldd4z1xlfq.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxibyp8kv8jhgfvrldd4z1xlfq.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrldz8z1jlfc-k.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxibyp8kv8jhgfvrldz8z1jlfc-k.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrldz8z1xlfq.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxibyp8kv8jhgfvrldz8z1xlfq.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrlej6z1jlfc-k.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxibyp8kv8jhgfvrlej6z1jlfc-k.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrlej6z1xlfq.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxibyp8kv8jhgfvrlej6z1xlfq.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrlfj_z1jlfc-k.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxibyp8kv8jhgfvrlfj_z1jlfc-k.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrlfj_z1xlfq.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxibyp8kv8jhgfvrlfj_z1xlfq.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrlgt9z1jlfc-k.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxibyp8kv8jhgfvrlgt9z1jlfc-k.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxibyp8kv8jhgfvrlgt9z1xlfq.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxibyp8kv8jhgfvrlgt9z1xlfq.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlm111vf9eo.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxidyp8kv8jhgfvrjjlm111vf9eo.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlm111vgdeoceg.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxidyp8kv8jhgfvrjjlm111vgdeoceg.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlm21lvf9eo.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxidyp8kv8jhgfvrjjlm21lvf9eo.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlm21lvgdeoceg.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxidyp8kv8jhgfvrjjlm21lvgdeoceg.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlm81xvf9eo.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxidyp8kv8jhgfvrjjlm81xvf9eo.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlm81xvgdeoceg.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxidyp8kv8jhgfvrjjlm81xvgdeoceg.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlmg1hvf9eo.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxidyp8kv8jhgfvrjjlmg1hvf9eo.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlmg1hvgdeoceg.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxidyp8kv8jhgfvrjjlmg1hvgdeoceg.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlmr19vf9eo.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxidyp8kv8jhgfvrjjlmr19vf9eo.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlmr19vgdeoceg.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxidyp8kv8jhgfvrjjlmr19vgdeoceg.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlmv1pvf9eo.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxidyp8kv8jhgfvrjjlmv1pvf9eo.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlmv1pvgdeoceg.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxidyp8kv8jhgfvrjjlmv1pvgdeoceg.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlmy15vf9eo.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxidyp8kv8jhgfvrjjlmy15vf9eo.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxidyp8kv8jhgfvrjjlmy15vgdeoceg.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxidyp8kv8jhgfvrjjlmy15vgdeoceg.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxieyp8kv8jhgfvrjjfecg.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxieyp8kv8jhgfvrjjfecg.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxieyp8kv8jhgfvrjjnecmne.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxieyp8kv8jhgfvrjjnecmne.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxigyp8kv8jhgfvrjjluchta.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxigyp8kv8jhgfvrjjluchta.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxigyp8kv8jhgfvrjjlufntakpy.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxigyp8kv8jhgfvrjjlufntakpy.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxigyp8kv8jhgfvrlptuchta.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxigyp8kv8jhgfvrlptuchta.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/poppins-pxigyp8kv8jhgfvrlptufntakpy.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\poppins-pxigyp8kv8jhgfvrlptufntakpy.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkahkawzu.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkahkawzu.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkankawzu.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkankawzu.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkbnka.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkbnka.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkbxkawzu.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkbxkawzu.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkc3kawzu.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkc3kawzu.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkchkawzu.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkchkawzu.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkcnkawzu.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkcnkawzu.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkcxkawzu.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkcxkawzu.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkenkawzu.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkenkawzu.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3-ubgee.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3-ubgee.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3cubgee.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3cubgee.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3gubgee.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3gubgee.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3iubgee.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3iubgee.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3kubgee.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3kubgee.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3oubgee.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3oubgee.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluamawcubgee.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo7cnqeu92fr1me7ksn66agldtyluamawcubgee.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluamaxkubgee.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\roboto-kfo7cnqeu92fr1me7ksn66agldtyluamaxkubgee.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufa5qw54a.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\robotoslab-bngmuxzytxpivibgjjsb6ufa5qw54a.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufb5qw54a.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\robotoslab-bngmuxzytxpivibgjjsb6ufb5qw54a.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufc5qw54a.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\robotoslab-bngmuxzytxpivibgjjsb6ufc5qw54a.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufd5qw54a.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\robotoslab-bngmuxzytxpivibgjjsb6ufd5qw54a.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufj5qw54a.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\robotoslab-bngmuxzytxpivibgjjsb6ufj5qw54a.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufn5qu.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\robotoslab-bngmuxzytxpivibgjjsb6ufn5qu.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/robotoslab-bngmuxzytxpivibgjjsb6ufo5qw54a.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\robotoslab-bngmuxzytxpivibgjjsb6ufo5qw54a.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/varelaround-w8gdh283tvk__lua32tysjifp8up.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\varelaround-w8gdh283tvk__lua32tysjifp8up.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/varelaround-w8gdh283tvk__lua32tysjifpcupp9g.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\varelaround-w8gdh283tvk__lua32tysjifpcupp9g.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/varelaround-w8gdh283tvk__lua32tysjifqcupp9g.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\varelaround-w8gdh283tvk__lua32tysjifqcupp9g.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/elementor/google-fonts/fonts/varelaround-w8gdh283tvk__lua32tysjifqmupp9g.woff2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\elementor\google-fonts\fonts\varelaround-w8gdh283tvk__lua32tysjifqmupp9g.woff2
+Content Type: font/woff2
+
+Uri: https://maniart.vn/wp-content/uploads/essential-addons-elementor/eael-565.css?ver=1650044471
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\essential-addons-elementor\eael-565.css
+Content Type: text/css
+
+Uri: https://maniart.vn/wp-content/uploads/essential-addons-elementor/eael-565.js?ver=1650044471
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\essential-addons-elementor\eael-565.js
+Content Type: application/javascript
+
+Uri: https://maniart.vn/wp-content/uploads/essential-addons-elementor/eael-8.css?ver=1741704316
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\essential-addons-elementor\eael-8.css
+Content Type: text/css
+
+Uri: https://maniart.vn/wp-content/uploads/essential-addons-elementor/eael-8.js?ver=1741704316
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\essential-addons-elementor\eael-8.js
+Content Type: application/javascript
+
+Uri: https://maniart.vn/wp-content/uploads/happyaddons/css/ha-8.css?ver=3.20.0.1741704316
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-content\uploads\happyaddons\css\ha-8.css
+Content Type: text/css
+
+Uri: https://maniart.vn/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://maniart.vn/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://maniart.vn/wp-includes/js/imagesloaded.min.js?ver=5.0.0
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-includes\js\imagesloaded.min.js
+Content Type: application/javascript
+
+Uri: https://maniart.vn/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://maniart.vn/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://maniart.vn/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://maniart.vn/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-includes\js\mediaelement\mediaelementplayer-legacy.min.css
+Content Type: text/css
+
+Uri: https://maniart.vn/wp-includes/js/mediaelement/mejs-controls.svg
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-includes\js\mediaelement\mejs-controls.svg
+Content Type: image/svg+xml
+
+Uri: https://maniart.vn/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.8.2
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-includes\js\mediaelement\wp-mediaelement.min.css
+Content Type: text/css
+
+Uri: https://maniart.vn/wp-json/
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://maniart.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fmaniart.vn%2F
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://maniart.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fmaniart.vn%2F&format=xml
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://maniart.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fmaniart.vn%2Fcomingsoon%2F
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://maniart.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fmaniart.vn%2Fcomingsoon%2F&format=xml
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://maniart.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fmaniart.vn%2Fcontact%2F
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://maniart.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fmaniart.vn%2Fcontact%2F&format=xml
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://maniart.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fmaniart.vn%2Fmentor%2F
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://maniart.vn/wp-json/oembed/1.0/embed?url=https:%2F%2Fmaniart.vn%2Fmentor%2F&format=xml
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://maniart.vn/wp-json/wp/v2/pages/10
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-json\wp\v2\pages\10
+Content Type: application/json
+
+Uri: https://maniart.vn/wp-json/wp/v2/pages/565
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-json\wp\v2\pages\565
+Content Type: application/json
+
+Uri: https://maniart.vn/wp-json/wp/v2/pages/672
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-json\wp\v2\pages\672
+Content Type: application/json
+
+Uri: https://maniart.vn/wp-json/wp/v2/pages/8
+File Name: C:\Downloaded Web Sites\maniart.vn\wp-json\wp\v2\pages\8
+Content Type: application/json
+
+Uri: https://maniart.vn/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\maniart.vn\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-NM0EC13WBY
+File Name: C:\Downloaded Web Sites\maniart.vn\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-Q25W0WGQ2P
+File Name: C:\Downloaded Web Sites\maniart.vn\gtag\js-1
+Content Type: application/javascript
+
